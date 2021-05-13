@@ -9,3 +9,7 @@ function pyramid() {
 pyramid()
 
 I did it
+
+Why did you do that to me?
+Why.
+Fuck you!
